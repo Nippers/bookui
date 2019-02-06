@@ -2,7 +2,7 @@
 # File Created: 07.06.2016 18:03:00
 
 newmtl wire_086086086
-	Ns -30
+	Ns 0
 	d 1
 	Tr 0
 	Tf 1 1 1
@@ -10,4 +10,4 @@ newmtl wire_086086086
 	Ka 0.1373 0.1373 0.1373
 	Kd 0.8373 0.8373 0.8373
 	Ks 0.3500 0.3500 0.3500
-map_Kd fabric_b.jpg
+map_Kd knit.png
