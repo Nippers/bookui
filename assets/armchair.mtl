@@ -2,7 +2,7 @@
 # File Created: 05.12.2018 08:52:25
 
 newmtl wire_000000000
-	Ns 5
+	Ns 0
 	d 1
 	Tr 0
 	Tf 1 1 1
@@ -10,6 +10,6 @@ newmtl wire_000000000
 	Ka 0.2000 0.2000 0.2000
 	Kd 0.8000 0.8000 0.8000
 	Ks 0.9000 0.9000 0.9000
-map_Kd leather.jpg
+map_Kd greyfabric.jpg
 #map_Ka fabric_b.jpg
 #map_Ks fabric_b.jpg
